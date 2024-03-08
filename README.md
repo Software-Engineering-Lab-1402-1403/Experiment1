@@ -1,5 +1,7 @@
 # Create Second Conflict
 
+This is a sample to create a conflict
+
 # Deployment On Github Pages
 
 This Project has been deployed on this link:
