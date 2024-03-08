@@ -80,3 +80,6 @@ In Git, a snapshot refers to the state of a set of files at a particular point i
 
 - **Local Repository:** Is a version-controlled project directory on your local machine, managed by Git. It contains all the history, commits, branches, and tags necessary for version control.
 - **Remote Repository:** Is hosted on the internet or network for team collaboration. It allows multiple developers to push to and pull from the central repository, enabling collaborative development. GitHub, GitLab, and Bitbucket are examples of services hosting remote repositories.
+
+
+# Trying to make a conflict
