@@ -34,49 +34,49 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 In the first part we created a new branch to develop the frontend.
 
-https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/1.png
+![alt text](https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/1.png?raw=true)
 
 Then in the next part we add the new files to git using:
 ```bash
 git add -i
 ```
 
-https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/2.png
-https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/3.png
+![alt text](https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/2.png?raw=true)
+![alt text](https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/3.png?raw=true)
 
 Then we pushed it to the new branch.
 
-https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/4.png
+![alt text](https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/4.png?raw=true)
 
 Now we Set the project to require pull request before merge like this.
 
-https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/6.png
+![alt text](https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/6.png?raw=true)
 
-https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/7.png
+![alt text](https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/7.png?raw=true)
 
 After that we started to create first pull request.
 
-https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/5.png
+![alt text](https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/5.png?raw=true)
 
 When someone review our pull request we will see something like this:
 
-https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/8.png
+![alt text](https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/8.png?raw=true)
 
 Then we create .gitignore file and push it like this.
 
-https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/9.png
+![alt text](https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/9.png?raw=true)
 
-https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/10.png
+![alt text](https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/10.png?raw=true)
 
 ## First Conflict
 
 After we add a fake line in README.md file to make a conflict, we solve it like this:
 
-https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/13.png
+![alt text](https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/13.png?raw=true)
 
 ### The Second was exactly like the first one.
 
-https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/14.png
+![alt text](https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/14.png?raw=true)
 
 # Questions
 
@@ -134,5 +134,3 @@ In Git, a snapshot refers to the state of a set of files at a particular point i
 
 - **Local Repository:** Is a version-controlled project directory on your local machine, managed by Git. It contains all the history, commits, branches, and tags necessary for version control.
 - **Remote Repository:** Is hosted on the internet or network for team collaboration. It allows multiple developers to push to and pull from the central repository, enabling collaborative development. GitHub, GitLab, and Bitbucket are examples of services hosting remote repositories.
-
-# Snapshots
