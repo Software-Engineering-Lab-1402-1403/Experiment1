@@ -1,7 +1,3 @@
-# Create Second Conflict
-
-This is a sample to create a conflict
-
 # Deployment On Github Pages
 
 This Project has been deployed on this link:
@@ -77,6 +73,10 @@ https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/scre
 After we add a fake line in README.md file to make a conflict, we solve it like this:
 
 https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/13.png
+
+### The Second was exactly like the first one.
+
+https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/14.png
 
 # Questions
 
