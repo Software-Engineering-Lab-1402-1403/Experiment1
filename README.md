@@ -42,9 +42,39 @@ Then in the next part we add the new files to git using:
 ```bash
 git add -i
 ```
-Then we pushed it to the new branch.
 
 https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/2.png
+https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/3.png
+
+Then we pushed it to the new branch.
+
+https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/4.png
+
+Now we Set the project to require pull request before merge like this.
+
+https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/6.png
+
+https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/7.png
+
+After that we started to create first pull request.
+
+https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/5.png
+
+When someone review our pull request we will see something like this:
+
+https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/8.png
+
+Then we create .gitignore file and push it like this.
+
+https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/9.png
+
+https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/10.png
+
+## First Conflict
+
+After we add a fake line in README.md file to make a conflict, we solve it like this:
+
+https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/13.png
 
 # Questions
 
