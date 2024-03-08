@@ -32,6 +32,20 @@ See the section about [running tests] for more information.
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
+# Developement Details
+
+In the first part we created a new branch to develop the frontend.
+
+https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/1.png
+
+Then in the next part we add the new files to git using:
+```bash
+git add -i
+```
+Then we pushed it to the new branch.
+
+https://github.com/Software-Engineering-Lab-1402-1403/Experiment1/blob/main/screenshots/2.png
+
 # Questions
 
 ## .git Directory
